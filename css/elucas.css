@@ -1,0 +1,129 @@
+.panel-body img {
+
+    float:left;
+    width: 100px;
+    height: 100px;
+    margin-right: 30px;
+}
+
+
+
+.btn-info, .badge, .likes {
+    float: right;
+}
+
+.badge, .likes {
+    margin-top: -19px;
+    margin-left: 3px;
+}
+
+.jumbotron {
+    background-color: #eee;
+    color: inherit;
+    margin-top: 20px;
+    
+}
+.jumbotron img{
+   float: right;
+   width: 200px;
+   height: 278px;
+   margin-top: -20px;
+   box-shadow: 
+
+    
+}
+
+.form-control {
+
+	width: 400px;
+
+}
+
+input.btn-block[type="submit"] {
+
+	width: 200px;
+	margin-top: 10px;
+
+}
+
+.iger{
+
+width: 25px;
+
+}
+
+.igerpanel{
+
+width: 180px;
+height: 580px;
+
+
+
+
+
+}
+
+.igerdescription{
+overflow: hidden;
+height: 240px;
+
+}
+
+
+.igerfoto img{
+
+width: 150px;
+height: 150px;
+
+
+}
+
+.yout img{
+
+width: 160px;
+height: 90px;
+
+
+}
+
+
+
+.mapa{
+
+margin-top: 160px;
+}
+
+#followers, #retuits{
+
+	float: right;
+}
+#compartir{
+
+
+margin-left: -40px;
+
+}
+#compartir img{
+
+width: 20px;
+height: 20px;
+float: left;
+margin-right: 5px;
+}
+#compartir li{
+
+list-style: none;
+
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    background-color: #0080FF;
+    color: #ffffff;
+    
+}
+
+.label-default {
+    background-color: #00BFFF;
+}
+
+
